@@ -1,2 +1,2 @@
 # adrieli2024
- o projeto pong, foi um projeto bom de fazer 
+ 0 projetimho da cartinha que se multiplica foi bom de fazer 
